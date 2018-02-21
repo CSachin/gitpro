@@ -1,4 +1,4 @@
-def my(a,func)
+def my(a,func):
 	c=func(a)
 	return a*c
 n=my(10,lambda d:d*d)
