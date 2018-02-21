@@ -7,4 +7,4 @@ class X:
 		print("okay be there")
 x=X()
 x.m1()
-x.r1
+x.r1()
