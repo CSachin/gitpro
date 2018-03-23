@@ -13,3 +13,4 @@ class X:
 x=X()
 x.m1()
 x.r1()
+x.r1()
